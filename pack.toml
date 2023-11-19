@@ -1,0 +1,13 @@
+name = "Bistro"
+author = "AdriaAyl"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "08412152e51efb23e7d62ee3086853258ac7c1afbcffa290a0edf574d47f5ece"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"
