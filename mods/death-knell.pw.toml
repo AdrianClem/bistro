@@ -1,0 +1,13 @@
+name = "Death Knell"
+filename = "DeathKnell-Forge-1.20.1-10.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "179f27b49dd00fa18ae7c613c944ce2b2b15a756"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4829921
+project-id = 538316
