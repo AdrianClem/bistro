@@ -1,13 +1,13 @@
 name = "Epic Samurai's"
-filename = "epicsamurai-0.0.29-1.20.1-forge.jar"
+filename = "epicsamurai-0.0.30.2-1.20.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3567f69419afc82a0a13d0b1795e0f9fb470bdec"
+hash = "fecabaa4279e901b2f590e03e7bebf94e6cbe683"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4897007
+file-id = 4911061
 project-id = 848381
