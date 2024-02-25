@@ -1,0 +1,13 @@
+name = "Traveler's Compass"
+filename = "travelerscompass-1.20.1-1.2.01-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "051cf5e353f1f50dc846bac81ea9f71fe498f265"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5098929
+project-id = 954415
