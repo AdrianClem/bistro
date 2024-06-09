@@ -1,0 +1,13 @@
+name = "Team Capes"
+filename = "TeamCapes-forge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1180cfc9fd5320e752d53e594b3e588cf8d52e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4888411
+project-id = 941141

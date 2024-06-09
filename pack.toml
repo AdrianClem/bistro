@@ -1,12 +1,12 @@
 name = "Bistro"
 author = "AdriaAyl"
-version = "1.2.0"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "701c640426b5bf1d62b25fb1f21933ed1940d8696bb3b77751c12ba0905918f6"
+hash = "5f5afb89d111bd135ff7b50164e689ac043e0d355bb32d737eb5d6b8c4b54834"
 
 [versions]
 forge = "47.2.0"

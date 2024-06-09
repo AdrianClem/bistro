@@ -1,0 +1,13 @@
+name = "The Forgotten Dimensions"
+filename = "TFD v1.42 B MC1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca59f41ec4695a8e97fcf6dfd9cf4050a0084817"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5334372
+project-id = 461140
